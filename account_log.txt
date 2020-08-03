@@ -1,0 +1,51 @@
+
+
+==========Account Logs==============
+====================================
+
+
+Ref ID: 479054  Time: Fri Jun  5 19:58:26 2020
+Item                     Quantity      Price
+Porotta                  4.0           32.0
+Chappati                 7.0           56.0
+
+                         Total         103.84
+
+Ref ID: 500194  Time: Fri Jun  5 19:59:18 2020
+Item                     Quantity      Price
+Chappati                 7.0           56.0
+Kubbus                   4.0           28.0
+
+                         Total         99.12
+
+Ref ID: 270142  Time: Fri Jun  5 19:59:18 2020
+Item                     Quantity      Price
+Kubbus                   2.0           14.0
+BeefFry                  1.0           100.0
+
+                         Total         134.52
+
+Ref ID: 334466  Time: Fri Jun  5 20:39:52 2020
+Item                     Quantity      Price
+Porotta                  4.0           32.0
+Chappati                 1.0           8.0
+Chicken65                5.0           600.0
+
+                         Total         755.2
+
+Ref ID: 219485  Time: Fri Jun  5 20:39:52 2020
+Item                     Quantity      Price
+Porotta                  8.0           64.0
+Chappati                 1.0           8.0
+Kubbus                   8.0           56.0
+Chicken65                5.0           600.0
+VegCurry                 5.0           250.0
+
+                         Total         1154.04
+
+Ref ID: 872749  Time: Fri Jun  5 20:39:52 2020
+Item                     Quantity      Price
+Porotta                  7.0           56.0
+Chicken65                2.0           240.0
+
+                         Total         349.28
